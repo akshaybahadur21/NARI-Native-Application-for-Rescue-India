@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1077407413608",
+    "firebase_url": "https://nari-9b323.firebaseio.com",
+    "project_id": "nari-9b323",
+    "storage_bucket": "nari-9b323.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077407413608:android:9970850cf6034c2c",
+        "android_client_info": {
+          "package_name": "com.example.sarthak_tyagi.nari"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1077407413608-kpkjp9fagnkpgdk1ml52nmrmn62pue01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDccv_EgDYvYCGOuSS47jrgH4ZpncsQdJs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

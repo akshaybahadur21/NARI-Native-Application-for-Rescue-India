@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NARI</string>
+    <string name="title_activity_map_routing">Map</string>
+    <string name="title_activity_panicbuttonmap">Map</string>
+</resources>
