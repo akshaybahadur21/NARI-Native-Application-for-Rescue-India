@@ -33,7 +33,8 @@ The example code is in Python ([version 2.7](https://www.python.org/download/rel
 8) import geocoder
 9) import pyfcm  
 
-### (Android Application Link)[https://play.google.com/store/apps/details?id=project.example.sarthak_tyagi.nari&hl=en ]
+### Android Application Link
+(see)[https://play.google.com/store/apps/details?id=project.example.sarthak_tyagi.nari&hl=en ]
 
 ### Execution
 To run the code, type `python project.py`
