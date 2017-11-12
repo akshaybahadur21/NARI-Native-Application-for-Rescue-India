@@ -23,46 +23,19 @@ The example code is in Python ([version 2.7](https://www.python.org/download/rel
 
 ### Dependencies
 
-1) import cv2
-2) import immutils
-3) import dlib
-4) import scipy
-
-
-### Description
-
-A computer vision system that can automatically detect driver drowsiness in a real-time video stream and then play an alarm if the driver appears to be drowsy.
-
-### Algorithm
-
-Each eye is represented by 6 (x, y)-coordinates, starting at the left-corner of the eye (as if you were looking at the person), and then working clockwise around the eye:.
-
-<img src="https://github.com/akshaybahadur21/Drowsiness_Detection/blob/master/eye1.jpg">
-
-### Condition
-
-It checks 20 consecutive frames and if the Eye Aspect ratio is lesst than 0.25, Alert is generated.
-
-#### Relationship
-
-<img src="https://github.com/akshaybahadur21/Drowsiness_Detection/blob/master/eye2.png">
-
-#### Summing up
-
-<img src="https://github.com/akshaybahadur21/Drowsiness_Detection/blob/master/eye3.jpg">
-
-
-For more information, [see](https://www.pyimagesearch.com/2017/05/08/drowsiness-detection-opencv/)
-
-### Working Example
-
-<img src="https://github.com/akshaybahadur21/Drowsiness_Detection/blob/master/drowsy.gif">
-
-
+1) import Adafruit_CharLCD
+2) import time 
+3) import datetime 
+4) import RPi.GPIO
+5) import json
+6) import requests
+7) import socket
+8) import geocoder
+9) import pyfcm  
 
 ### Execution
-To run the code, type `python Drowsiness_Detection.py`
+To run the code, type `python project.py`
 
 ```
-python Drowsiness_Detection.py
+python project.py
 ```
