@@ -1,7 +1,10 @@
-## WristBand Module for NARI
+# WristBand Module for NARI [![](https://img.shields.io/github/license/sourcerer-io/hall-of-fame.svg?colorB=ff0000)](https://github.com/akshaybahadur21/PythonServer_WristbandModule/blob/master/LICENSE.txt)  [![](https://img.shields.io/badge/Akshay-Bahadur-brightgreen.svg?colorB=ff0000)](https://akshaybahadur.com)
 This code acts as a wristband module for Raspberry Pi.
 It also has a blackbook that gives you the intuition about how the project works.
 It also consists of the Android ASync class which connects to the wristband module using Socket Programming
+
+### Sourcerer
+[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/PythonServer_WristbandModule/images/0)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/PythonServer_WristbandModule/links/0)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/PythonServer_WristbandModule/images/1)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/PythonServer_WristbandModule/links/1)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/PythonServer_WristbandModule/images/2)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/PythonServer_WristbandModule/links/2)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/PythonServer_WristbandModule/images/3)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/PythonServer_WristbandModule/links/3)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/PythonServer_WristbandModule/images/4)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/PythonServer_WristbandModule/links/4)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/PythonServer_WristbandModule/images/5)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/PythonServer_WristbandModule/links/5)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/PythonServer_WristbandModule/images/6)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/PythonServer_WristbandModule/links/6)[![](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/PythonServer_WristbandModule/images/7)](https://sourcerer.io/fame/akshaybahadur21/akshaybahadur21/PythonServer_WristbandModule/links/7)
 
 ## Applications
 The main application is aimed at providing safety for women in India. This module manages to act as a perfect fitness tracker as well as a rescue module.
